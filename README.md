@@ -1,30 +1,30 @@
-# Sistema de Gestión de Préstamos de Libros en Python
+# Book Loan Management System in Python
 
-Este proyecto es una aplicación de consola simple desarrollada en Python para la gestión de préstamos de libros en una biblioteca. Permite realizar operaciones básicas como:
+This project is a simple console application developed in Python for managing book loans in a library. It allows basic operations such as:
 
-## Funcionalidades
+## Features
 
-### Gestión de Usuarios
-- Registrar nuevos usuarios con su información personal (nombre, apellido, matrícula, correo electrónico).
-- Actualizar el correo electrónico de un usuario existente.
-- Mostrar la información de un usuario específico.
+### User Management
+- Register new users with their personal information (first name, last name, ID number, email).
+- Update the email of an existing user.
+- Display the information of a specific user.
 
-### Gestión de Libros
-- Registrar nuevos libros con su título, autor y número de serie.
-- Mostrar la información de un libro específico.
+### Book Management
+- Register new books with their title, author, and serial number.
+- Display the information of a specific book.
 
-### Gestión de Préstamos
-- Registrar un nuevo préstamo asociando un libro a un usuario.
-- Mostrar la información de todos los préstamos realizados.
+### Loan Management
+- Register a new loan by associating a book with a user.
+- Display the information of all loans made.
 
-## Características
-- Interfaz de usuario simple e intuitiva a través de la consola.
-- Validación básica de datos para el correo electrónico.
-- Uso de clases y objetos para una mejor organización del código.
+## Characteristics
+- Simple and intuitive user interface through the console.
+- Basic data validation for email.
+- Use of classes and objects for better code organization.
 
-## Cómo ejecutar el proyecto
-1. Clonar el repositorio.
-2. Ejecutar el archivo `main.py` desde la consola.
+## How to run the project
+1. Clone the repository.
+2. Run the `main.py` file from the console.
 
-## Objetivo
-Este proyecto tiene como objetivo servir como ejemplo básico de programación orientada a objetos en Python y como punto de partida para proyectos más complejos de gestión de bibliotecas.
+## Objective
+This project aims to serve as a basic example of object-oriented programming in Python and as a starting point for more complex library management projects.
